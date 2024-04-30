@@ -1,0 +1,5 @@
+/- melhorar ficheiro de consumo e eficiencia, faltam variaveis de controlo, bools, para confirmar atualização dos programas,
+funções para calcular outras variaveis (tempo restante do programa - em função do schedule) etc
+/- servidor de website capaz de ler horas para atualizar automaticamente programas?
+/- inicialização do hardware
+/- loop
