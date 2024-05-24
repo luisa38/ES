@@ -1,4 +1,0 @@
-/- podem faltar variaveis de controlo nas classes de consumo e energia dependendo dos inputs do site (existem variaveis na função
-handle_program que ainda não foram declaradas nem inicializadas - sketch)
-/- função de inicialização de classes (COM?) por fazer
-/- inicialização de hardware (void setup)
